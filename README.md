@@ -3,7 +3,7 @@
 > Original Author: Maor Sabag
 
 
-A python script to decode a binary message into an image and decrypting it.
+A python script to encode a binary message into an image and decode it.
 
 # Usage
 
